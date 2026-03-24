@@ -17,8 +17,8 @@ O objetivo deste portfólio é servir como uma vitrine profissional, onde mostro
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5  
-- CSS3  
+- HTML 
+- CSS 
 - JavaScript (em evolução)  
 
 ---
